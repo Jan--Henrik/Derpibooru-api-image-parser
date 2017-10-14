@@ -1,0 +1,7 @@
+urlStr:https://derpibooru.org/search.json?	URL till the first option
+hereticStr:&  					Heretic between the options
+urlSearchStr:q=					Search option
+pageStr:page=					Page number option
+keyStr:						Key option				
+key:--------------------			Personal key
+fileSize:2000					max Filesize

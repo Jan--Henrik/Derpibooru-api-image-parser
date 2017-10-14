@@ -1,0 +1,8 @@
+urlStr:https://derpibooru.org/search.json?
+hereticStr:&
+urlSearchStr:q=
+pageStr:page=
+keyStr:
+filePrefix:
+key:
+fileSize:8000
